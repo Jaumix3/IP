@@ -1,17 +1,16 @@
-//Fes un programa que et demani una lletra i miri si és la lletra a. Si ho és ha de dir “És una a”. Si no ho és ha de dir no és una lletra a.
+//Fes un programa que demani un número i si el número està entre 100 i 200, digui “número correcte”.
+
 #include <stdio.h>
 
 int main(){
-    char lletra;
-    printf("Escriu una lletra: ");
-    scanf("%c",&lletra);
-    if (lletra=='a')
+    int numero;
+    printf("Esrigui un número ");
+    scanf("%d",&numero);
+    if (numero>=100 && numero<=200)
     {
-        printf("La lletra és una 'A'");
+        printf("Numero Correcte\n");
     }
-    
-    else
-    {
-        printf("No és una 'A'");
+    else{
+        printf("Numero incorrecte\n");
     }
 }
