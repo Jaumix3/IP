@@ -1,0 +1,14 @@
+declara: 
+	var 
+		nombre1, nombre2, nombre3
+fi_declara
+
+principi_algorisme: 
+	llegir nombres
+	quadrat=nombre**2
+	escriure nombre**2
+fi_algorisme
+
+
+
+		

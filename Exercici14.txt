@@ -1,0 +1,21 @@
+Fer un programa que vagi demanant nombres a l’usuari i 
+seguidament pregunti si en vol introduir un altre. 
+En el cas que l’usuari digui que no, mostri la seva suma.
+
+introduir un altre. En el cas que l’usuari digui que no, mostri la seva suma.
+Programa “Suma de llista de nombres”
+declara
+VAR
+		num, suma: enter
+		opcio: caràcter
+fi_declara
+Inici_algorisme
+	repetir
+escriure “Dona’m un nombre”
+	llegir num
+	suma = suma + num
+escriure “Vols un altre (s/n)”
+llegir opcio
+mentre opcio ==’s’
+escriure “ La suma és ”, suma
+fi_algorisme

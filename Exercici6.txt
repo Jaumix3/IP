@@ -1,0 +1,14 @@
+Escriu un algorisme que et demani dos números i llavors et mostri la suma dels dos.
+
+declara
+    var nombre1
+    var nombre2
+    resultat nombre1 + nombre2
+fi_declara
+
+inici_programa
+    llegir nombre1
+    llegir nombre2
+    sumar=nombre1 + nombre2
+    Esciure resultat
+fi_programa

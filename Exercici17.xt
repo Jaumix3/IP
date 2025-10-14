@@ -1,0 +1,10 @@
+Escriu un programa que demani dos nombres enters. Si el primer és més gran que el segon, el programa ha de dir: “El primer ha de ser més petit que el segon” i tornar a llegir els nombres. Això fins que el primer sigui més petit. 
+Un cop passi això el programa ha de dir quants nombres hi ha entre els dos (amb ells inclosos) i la suma de tots ells.
+Exemple 8 i 5 no és correcte, torna a demanar.
+5 i 8 correcte. Ha de dir hi ha 4 nombres i la suma és 5+6+7+8 = 26.
+
+
+declara
+    VAR 
+        num: enter
+        

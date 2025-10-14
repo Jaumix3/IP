@@ -1,0 +1,28 @@
+Escriu un programa que llegeixi 20 nombres positius. 
+Després de llegir-los mostri el més petit de tots ells.
+
+petit de tots ells.
+Programa “Mínim 20 números”
+declara
+VAR 
+num, i, cont_p, cont_n : Enter
+mitjana_p, mitjana_n, suma_p, suma_n = 0 : Real
+fi_declara
+inici_algorisme
+per i de 1 fins a 20
+escriure “Dona’m un numero”
+llegir num
+si num >= 0 llavors
+	suma_p = suma_p +num
+cont_p = cont_p + 1
+sino
+	suma_n = suma_n +num
+cont_n = cont_n + 1
+fi_si
+suma = suma + num
+fi_per
+mitjana_p = suma_p / cont_p
+mitjana_n = suma_n / cont_n
+Escriure “la mitjana dels positius es “, mitjana_p
+Escriure “la mitjana dels negatius es “, mitjana_n
+fi_algorisme

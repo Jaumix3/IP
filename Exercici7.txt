@@ -1,0 +1,15 @@
+Fer un programa que demani a l’usuari un número i validi que està entre el 1 i el 100. Si es així, que li digui que el nombre es bo. En cas contrari, que es dolent.
+
+declara
+    var nombre1
+fi_declara
+
+inici_programa: 
+    llegir nombre: "Diguis un nombre"
+        Si nombre > 100 després
+            ecriure: El teu nombre no és bo.
+        sinó:
+            escriure: el teu nombre és bo. 
+        fi_llegirnombre.
+fi_programa
+

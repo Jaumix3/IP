@@ -1,0 +1,21 @@
+Fer un programa que demani un nombre a l’usuari. Llavors demani un altre nombre. 
+Llavors digui: si són iguals: “son iguals”, si el primer es més gran: “el primer era més gran” 
+i si el primer es més petit “el primer es més petit”.
+
+declara
+    var nombre1
+    var nombre2
+fi_declara
+
+inici_programa
+    llegir nombre1
+    llegir nombre2
+
+    si nombre1=nombre2
+        escriure=son iguals
+    si nombre1>nombre2
+        escriu: el primer és més gran que el segon
+    else
+        esciure el primer és més petit.
+    fi_si
+fi_programa

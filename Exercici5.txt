@@ -1,0 +1,10 @@
+Programa: Nom y salutació
+
+declara
+    var nom = cadena
+fi_declara
+
+inici_programa: 
+    llegir nom "com et dius?"
+    Escriure Hola, nom.
+fi_programa

@@ -1,0 +1,11 @@
+Escriu un programa que calculi l’àrea d’un cercle, un rectangle o un triangle.
+
+declara
+    VAR
+        opció: caracter
+        radi, base, altura, area: real
+fi_declara
+
+inici_algorisme
+    escriure "Quina are vols calcular (T, R , C)
+    

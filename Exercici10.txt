@@ -1,0 +1,15 @@
+Fer un programa que mostri per pantal
+
+programa 1 al 1000
+
+declara: 
+    var
+        i:enter
+fi_declara
+
+Inici_algorisme
+    per i de 1 fins a 1000
+        escriure i
+    fi_per
+
+fi_algorisme

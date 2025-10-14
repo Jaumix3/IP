@@ -1,0 +1,13 @@
+
+Programa “Del seu al 1”
+declara
+VAR
+		num, i: enter
+fi_declara
+Inici_algorisme
+	escriure “Dona’m un nombre de l’1 al 100”
+	llegir num
+per i de 1 fins a num 
+		escriure i
+	fi_per
+fi_algorisme
