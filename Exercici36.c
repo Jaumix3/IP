@@ -11,5 +11,5 @@ int main()
     do{
         printf("Diguis un nombre:\n");
         scanf("%d",&n);
-    }while(op=1);
+    }while(op=1);asdasd
 }
