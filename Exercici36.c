@@ -6,10 +6,11 @@
 
 int main()
 {
-    int n;
-    int op;
-    do{
+    double n;
+    int vegades=0;
+    for(vegades=0; vegades<10; vegades+1)
+    {
         printf("Diguis un nombre:\n");
-        scanf("%d",&n);
-    }while(op=1);asdasd
+        scanf("%lf",&n);
+    }
 }
