@@ -9,6 +9,7 @@ int main()
     char ll;
     int ps1;
     int ps2;
+    int min, max;
     printf("Introdueix 10 lletres:\n");
     scanf("%c",&ll);
     
