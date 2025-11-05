@@ -6,11 +6,25 @@
 
 int main()
 {
-    double n;
-    int vegades=0;
-    for(vegades=0; vegades<10; vegades+1)
+    int n;
+    int min, max;
+    printf("Introdueix 10 nombres:\n");
+    scanf("%d",&n);
+    min=n;
+    max=n;
+    for(int vegades=0; vegades<9; vegades++)
     {
-        printf("Diguis un nombre:\n");
-        scanf("%lf",&n);
+        printf("Introdueix 10 nombres:\n");
+        scanf("%d",&n);
+        if (n<min)
+        {
+            min=n;
+        }
+        if (n>max)
+        {
+            max=n;
+        }
+
     }
+    printf("El minim és: %d\n i el maxim:%d\n", min ,max);
 }
