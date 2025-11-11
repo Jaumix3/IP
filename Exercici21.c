@@ -1,5 +1,6 @@
 // Demana a //l’usuari que li agrada més: 1 - Platja, 2- Muntanya, 3 - Ciutat.
-// L’usuari ha de respondre 1, 2 o 3. llavors tu li has de dir: Així que t’agrada més ...
+// L’usuari ha de respondre 1, 2 o 3. 
+//llavors tu li has de dir: Així que t’agrada més ...
 
 #include <stdio.h>
 

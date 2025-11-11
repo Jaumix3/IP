@@ -1,4 +1,7 @@
-//Feu un programa que escrigui la taula de multiplicar d’un nombre introduït per teclat. P. Ex.: 4 ‘x’ 1 ‘=’ 4  4 ‘x’ 2 ‘=’ 8 ... 
+//Feu un programa que escrigui la taula de multiplicar 
+//d’un nombre introduït per teclat. 
+//P. Ex.: 4 ‘x’ 1 ‘=’ 4  4 ‘x’ 2 ‘=’ 8 ... 
+
 
 #include <stdio.h>
 

@@ -1,5 +1,7 @@
 //Fes un programa amb dues opcions de menú. L’opció 1 et demana l’edat i et mostra l’any en que vas néixer. 
-//L’opció 2 et mostra la informació: Hola que tal. Afegir una 3 opció: sortir. Fins que no premi aquesta opció, el menú seguirà donant voltes.
+//L’opció 2 et mostra la informació: Hola que tal. 
+//Afegir una 3 opció: sortir. Fins que no premi aquesta opció, 
+//el menú seguirà donant voltes.
 
 #include <stdio.h>
 

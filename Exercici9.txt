@@ -8,4 +8,4 @@ fi_declara
 
 inici_algorisme
     escriure "Quina are vols calcular (T, R , C)
-    
+     

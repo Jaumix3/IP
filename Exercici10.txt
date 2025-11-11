@@ -12,4 +12,4 @@ Inici_algorisme
         escriure i
     fi_per
 
-fi_algorisme
+fi_algorisme 

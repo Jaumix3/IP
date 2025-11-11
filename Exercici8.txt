@@ -18,4 +18,4 @@ inici_programa
     else
         esciure el primer és més petit.
     fi_si
-fi_programa
+fi_programa 

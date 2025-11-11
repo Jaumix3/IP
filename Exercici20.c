@@ -1,4 +1,5 @@
-//Fes un programa que llegeixi dos nombres i llavors mostri la multiplicació per pantalla.
+//Fes un programa que llegeixi dos nombres i llavors mostri 
+//la multiplicació per pantalla.
 
 #include <stdio.h>
 int main(){

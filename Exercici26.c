@@ -1,4 +1,5 @@
-//Fes un programa que et demani una lletra i mostri per pantalla: “és una vocal” o “és una consonant”.
+//Fes un programa que et demani una lletra i mostri per pantalla: 
+//“és una vocal” o “és una consonant”.
 
 #include <stdio.h>
 

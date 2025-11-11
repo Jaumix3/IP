@@ -19,3 +19,4 @@ llegir opcio
 mentre opcio ==’s’
 escriure “ La suma és ”, suma
 fi_algorisme
+ 

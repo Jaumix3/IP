@@ -11,3 +11,4 @@ per i de 1 fins a num
 		escriure i
 	fi_per
 fi_algorisme
+ 

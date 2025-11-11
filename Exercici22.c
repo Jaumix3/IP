@@ -1,4 +1,5 @@
-//Fes un programa que calculi l’àrea d’un cercle, un rectangle o un triangle.
+//Fes un programa que calculi l’àrea d’un cercle, 
+//un rectangle o un triangle.
 
 #include <stdio.h>
 

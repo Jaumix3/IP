@@ -1,4 +1,5 @@
-//Fer un programa que demani a l’usuari un número i llavors mostri per pantalla els nombres del seu número al 1.
+//Fer un programa que demani a l’usuari un número i 
+//llavors mostri per pantalla els nombres del seu número al 1.
 
 #include <stdio.h>
 

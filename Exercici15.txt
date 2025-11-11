@@ -25,3 +25,4 @@ mitjana_n = suma_n / cont_n
 Escriure “la mitjana dels positius es “, mitjana_p
 Escriure “la mitjana dels negatius es “, mitjana_n
 fi_algorisme
+ 

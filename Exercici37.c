@@ -27,5 +27,5 @@ int main()
         }
 
     }
-    printf("");
+    printf("El minim és: %c\n i el maxim:%c\n", min ,max);
 }

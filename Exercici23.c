@@ -1,4 +1,5 @@
-//Tenim el següent exercici. Intenta veure el que fa sense provar-lo i mira de corregir els 3 errors que hi ha:
+//Tenim el següent exercici. Intenta veure el que fa sense .
+//provar-lo i mira de corregir els 3 errors que hi ha:
 
 #include <stdio.h>
 

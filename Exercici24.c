@@ -1,4 +1,5 @@
-//Fes un programa que demani un número i si el número està entre 100 i 200, digui “número correcte”.
+//Fes un programa que demani un número i si el número està 
+//entre 100 i 200, digui “número correcte”.
 
 #include <stdio.h>
 

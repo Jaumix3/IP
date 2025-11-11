@@ -11,4 +11,4 @@ inici_programa
     llegir nombre2
     sumar=nombre1 + nombre2
     Esciure resultat
-fi_programa
+fi_programa 

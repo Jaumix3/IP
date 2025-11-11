@@ -1,4 +1,5 @@
 //Fes un programa que llegeixi un nombre i calculi el seu quadrat.
+//
 
 #include <stdio.h>
 

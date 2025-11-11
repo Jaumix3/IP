@@ -11,3 +11,4 @@ Inici_algorisme
 	fi_per
  
 fi_algorisme
+ 

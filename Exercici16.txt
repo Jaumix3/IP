@@ -3,7 +3,7 @@ Després de llegir-los mostri el més petit de tots ells.
 
 petit de tots ells.
 Programa “Mínim 20 números”
-declara
+declara 
 VAR 
 num, i, cont_p, cont_n : Enter
 mitjana_p, mitjana_n, suma_p, suma_n = 0 : Real

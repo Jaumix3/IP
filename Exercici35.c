@@ -5,10 +5,12 @@
 
 int main()
 {
-    int n;
-    int op;
-    do{
-        printf("Diguis un nombre:\n");
-        scanf("%d",&n);
-    }while(op=1);
+    int n, n1;
+    int num;
+    int min, mid, max;
+    for (n=0;n<3;n++){
+        printf("Digues un nombre: \n");
+        scanf("%d", &num);
+        n1=num+n1;
+    }
 }
