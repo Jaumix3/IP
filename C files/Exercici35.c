@@ -12,5 +12,9 @@ int main()
         printf("Digues un nombre: \n");
         scanf("%d", &num);
         n1=num+n1;
+        if(""){
+
+        }
+        
     }
 }

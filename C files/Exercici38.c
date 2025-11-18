@@ -9,5 +9,20 @@ tornar-li a demanar cap nombre.
  #include <stdio.h>
 
  int main(){
-    
+    int oculto=74;
+    int num;
+    do{
+        printf("Digues un nombre de l1 al 100. \n");
+        scanf("%d",&num);
+        if(num<oculto){
+            printf("El nombre és més gran que %d \n",num);
+        }
+        if(num>oculto){
+            printf("El nombre és més petit que %d \n",num);
+        }
+        if (num==oculto)
+        {
+            printf("Enorabona L'has encertat\n");
+        }   
+    }while(num!=oculto);
  }

@@ -6,5 +6,11 @@
 
 int main()
 {
-    
+    int n, n1;
+    double num;
+    for(n=0; n<10; n++){
+        printf("Diges 10 nombres: \n");
+        scanf("%lf",&num);
+        n1=num+n1;
+    }
 }
