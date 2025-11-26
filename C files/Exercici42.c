@@ -11,12 +11,11 @@ Sinó, “torna a provar”. En tots dos casos acaba.
 #include "string.h"
 
 int main(){
-    //frase[strcpn(frase, '\n')='\0']
-    char secret[8]="endavant";
-    char contrasenya[8];
+    char secret[9]="endavant";
+    char contrasenya[9];
     printf("la porta està tancada, has de mester introduïr la contrasenya correcte: \n");
     fgets(contrasenya, sizeof(contrasenya), stdin);
-    // contrasenya[strcspn(contrasenya, '\n')='\0'];
+    strtok(contrasenya, "\n");
     if (strcmp(contrasenya,secret)==0){
         printf("La porta està oberta. \n");
     }else{
