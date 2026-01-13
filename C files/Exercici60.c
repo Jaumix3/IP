@@ -19,12 +19,13 @@ int comptarvocals(char * p){
             break;
         }
    }
-        printf("%d", v);
+        return v;
 }
 
 int main(){
     char p[128];
     fgets(p, sizeof(p), stdin);
     strtok(p, "\n");
-    comptarvocals(p);
+    printf("%d",comptarvocals(p));
+
 }
